@@ -1,0 +1,5 @@
+streamlit
+pytesseract
+Pillow
+pandas # Used in the example for preview display, optional if you remove the dataframe view
+# Add other libraries if you use them (e.g., requests for APIs, python-dateutil for dates)
