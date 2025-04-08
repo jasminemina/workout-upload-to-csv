@@ -1,2 +1,2 @@
 tesseract-ocr
-libtesseract-dev # Might be needed depending on exact setup
+libtesseract-dev
